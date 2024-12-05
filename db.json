@@ -8,43 +8,118 @@
   "categories": [
     {
       "id": 1,
+      "slug": "game-of-the-year",
       "title": "Game of the Year",
       "description": "Recognizing a game that delivers the absolute best experience across all creative and technical fields."
     },
     {
       "id": 2,
+      "slug": "best-narrative",
       "title": "Best Narrative",
       "description": "For outstanding storytelling and narrative development in a game."
     },
     {
       "id": 3,
+      "slug": "best-music",
       "title": "Best Score and Music",
       "description": "For outstanding music, inclusive of score, original song and/or licensed soundtrack."
     },
     {
       "id": 4,
+      "slug": "best-accessibility",
       "title": "Innovation in Accessibility",
       "description": "Recognizing software and/or hardware that is pushing the medium forward by adding features, technology and content to help games be played and enjoyed by an even wider audience."
     },
     {
       "id": 5,
+      "slug": "best-vr-ar",
       "title": "Best VR / AR",
       "description": "For the best game experience playable in virtual or augmented reality, irrespective of platform."
     },
     {
       "id": 6,
+      "slug": "best-action",
       "title": "Best Action Game",
       "description": "For the best game in the action genre focused primarily on combat."
     },
     {
       "id": 7,
+      "slug": "best-fighting",
       "title": "Best Fighting",
       "description": "For the best game designed primarily around head-to-head combat."
     },
     {
       "id": 8,
+      "slug": "best-sports-racing",
       "title": "Best Sports / Racing",
       "description": "For the best traditional and non-traditional sports and racing game."
+    }
+  ],
+  "games": [
+    {
+      "id": 303811,
+      "categories": [
+        1,
+        3
+      ],
+      "cover": {
+        "id": 396036,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8hl0.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/astro-bot/minitrailer.webm"
+      },
+      "name": "Astro Bot",
+      "platforms": [
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1330647,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqf.jpg"
+        },
+        {
+          "id": 1330648,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqg.jpg"
+        },
+        {
+          "id": 1330649,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqh.jpg"
+        },
+        {
+          "id": 1330650,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqi.jpg"
+        },
+        {
+          "id": 1330651,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqj.jpg"
+        },
+        {
+          "id": 1330652,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsiqk.jpg"
+        }
+      ],
+      "slug": "astro-bot",
+      "storyline": "When the PS5 mothership is attacked by Astro’s long-standing galactic nemesis, scrambling its wires and scattering the crew throughout space, only Astro can make things right! Setting off on his biggest mission yet, he needs your help to rescue the stranded crew and rebuild the mothership.\n\nMake the most of Astro’s new power-ups, handcrafted to level up your immersion: from springy punches and rockets all the way to a giant sponge!",
+      "summary": "Buckle up for some epic PlayStation camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new Astro adventure, exclusive to PS5 consoles!",
+      "total_rating": 92.32719419221462,
+      "videos": [
+        {
+          "id": 114724,
+          "video_id": "wHMNQzLG_Jg"
+        },
+        {
+          "id": 124862,
+          "video_id": "unYFdcEjV9k"
+        },
+        {
+          "id": 125528,
+          "video_id": "Llt4XUuK5Qk"
+        }
+      ]
     }
   ]
 }
