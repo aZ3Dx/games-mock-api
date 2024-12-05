@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Game of the Year",
+      "description": "Recognizing a game that delivers the absolute best experience across all creative and technical fields."
+    },
+    {
+      "id": 2,
+      "title": "Best Narrative",
+      "description": "For outstanding storytelling and narrative development in a game."
+    },
+    {
+      "id": 3,
+      "title": "Best Score and Music",
+      "description": "For outstanding music, inclusive of score, original song and/or licensed soundtrack."
+    },
+    {
+      "id": 4,
+      "title": "Innovation in Accessibility",
+      "description": "Recognizing software and/or hardware that is pushing the medium forward by adding features, technology and content to help games be played and enjoyed by an even wider audience."
+    },
+    {
+      "id": 5,
+      "title": "Best VR / AR",
+      "description": "For the best game experience playable in virtual or augmented reality, irrespective of platform."
+    },
+    {
+      "id": 6,
+      "title": "Best Action Game",
+      "description": "For the best game in the action genre focused primarily on combat."
+    },
+    {
+      "id": 7,
+      "title": "Best Fighting",
+      "description": "For the best game designed primarily around head-to-head combat."
+    },
+    {
+      "id": 8,
+      "title": "Best Sports / Racing",
+      "description": "For the best traditional and non-traditional sports and racing game."
+    }
+  ]
+}
