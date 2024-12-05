@@ -120,6 +120,2972 @@
           "video_id": "Llt4XUuK5Qk"
         }
       ]
+    },
+    {
+      "id": 251833,
+      "categories": [
+        1
+      ],
+      "cover": {
+        "id": 333155,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co752b.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/balatro/minitrailer.webm"
+      },
+      "name": "Balatro",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 14,
+          "name": "Mac"
+        },
+        {
+          "id": 34,
+          "name": "Android"
+        },
+        {
+          "id": 39,
+          "name": "iOS"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 130,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1063255,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsev.jpg"
+        },
+        {
+          "id": 1063256,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsew.jpg"
+        },
+        {
+          "id": 1063257,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsex.jpg"
+        },
+        {
+          "id": 1063258,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsey.jpg"
+        },
+        {
+          "id": 1063259,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsez.jpg"
+        },
+        {
+          "id": 1063260,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsf0.jpg"
+        },
+        {
+          "id": 1063261,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmsf1.jpg"
+        }
+      ],
+      "slug": "balatro",
+      "summary": "Balatro is a deck-building roguelite where you must play poker hands and earn chips to defeat enemy blinds. Enhance your deck of playing cards, buy Jokers to modify each hand you play, and discover new and wild synergies to win!",
+      "total_rating": 88.90236247905524,
+      "videos": [
+        {
+          "id": 107588,
+          "video_id": "VUyP21iQ_-g"
+        },
+        {
+          "id": 107589,
+          "video_id": "Ebsx27Hlxek"
+        }
+      ]
+    },
+    {
+      "id": 136879,
+      "categories": [
+        1,
+        6
+      ],
+      "cover": {
+        "id": 395422,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8h3y.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/black-myth-wukong/minitrailer.webm"
+      },
+      "name": "Black Myth: Wukong",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 396912,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8i9c.jpg"
+        },
+        {
+          "id": 396913,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8i9d.jpg"
+        },
+        {
+          "id": 396914,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8i9e.jpg"
+        },
+        {
+          "id": 396915,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8i9f.jpg"
+        },
+        {
+          "id": 396916,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8i9g.jpg"
+        },
+        {
+          "id": 1384445,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scto8t.jpg"
+        },
+        {
+          "id": 1384446,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scto8u.jpg"
+        }
+      ],
+      "slug": "black-myth-wukong",
+      "summary": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+      "total_rating": 88.88400038410231,
+      "videos": [
+        {
+          "id": 64708,
+          "video_id": "oRLhCxC886o"
+        },
+        {
+          "id": 64709,
+          "video_id": "rPPwsqfoy0w"
+        },
+        {
+          "id": 73561,
+          "video_id": "bJuLthUOssY"
+        },
+        {
+          "id": 95991,
+          "video_id": "fEtHfsYvU0U"
+        },
+        {
+          "id": 96145,
+          "video_id": "5pL3joRyeGY"
+        },
+        {
+          "id": 103104,
+          "video_id": "Cr5rQ1NZ0Tw"
+        },
+        {
+          "id": 109424,
+          "video_id": "gKef-FchyCM"
+        },
+        {
+          "id": 113950,
+          "video_id": "F6yfej-uzYI"
+        },
+        {
+          "id": 123090,
+          "video_id": "7eS7schhJ8k"
+        },
+        {
+          "id": 123315,
+          "video_id": "1xGiPUeevCM"
+        },
+        {
+          "id": 123317,
+          "video_id": "bzyMLoSwYvk"
+        },
+        {
+          "id": 123432,
+          "video_id": "QKBla_Ai500"
+        },
+        {
+          "id": 123682,
+          "video_id": "IAtn4HDgxtQ"
+        }
+      ]
+    },
+    {
+      "id": 240009,
+      "categories": [
+        1
+      ],
+      "cover": {
+        "id": 363670,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7sly.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/elden-ring-shadow-of-the-erdtree/minitrailer.webm"
+      },
+      "name": "Elden Ring: Shadow of the Erdtree",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1246050,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpgi.jpg"
+        },
+        {
+          "id": 1246051,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpgj.jpg"
+        },
+        {
+          "id": 1246052,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpgk.jpg"
+        },
+        {
+          "id": 1246053,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpgl.jpg"
+        },
+        {
+          "id": 1246054,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpgm.jpg"
+        },
+        {
+          "id": 1248164,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqr38.jpg"
+        },
+        {
+          "id": 1248165,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqr39.jpg"
+        },
+        {
+          "id": 1248166,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqr3a.jpg"
+        }
+      ],
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "summary": "The Shadow of the Erdtree is a fully-fledged expansion that features an all-new story set in the Land of Shadow. It adds a whole new map with 70 new weapons, ten new shields, 39 new Talismans, 14 new sorceries, 28 new incantations, 20 new Spirit Ashes, 25 New Ashes of War, 30 new armour sets, and new consumables and craftables.",
+      "total_rating": 92.00947004296272,
+      "videos": [
+        {
+          "id": 118612,
+          "video_id": "qLZenOn7WUo"
+        },
+        {
+          "id": 118614,
+          "video_id": "M-Xh4vbs6go"
+        },
+        {
+          "id": 118914,
+          "video_id": "6uT8wGtB3yQ"
+        }
+      ]
+    },
+    {
+      "id": 133236,
+      "categories": [
+        1,
+        2,
+        3
+      ],
+      "cover": {
+        "id": 331194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co73ju.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/final-fantasy-vii-rebirth/minitrailer.webm"
+      },
+      "name": "Final Fantasy VII Rebirth",
+      "platforms": [
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 970785,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckt29.jpg"
+        },
+        {
+          "id": 970786,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckt2a.jpg"
+        },
+        {
+          "id": 1068387,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwdf.jpg"
+        },
+        {
+          "id": 1068388,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwdg.jpg"
+        },
+        {
+          "id": 1068389,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwdh.jpg"
+        },
+        {
+          "id": 1144926,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfi.jpg"
+        },
+        {
+          "id": 1144927,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfj.jpg"
+        },
+        {
+          "id": 1144928,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfk.jpg"
+        },
+        {
+          "id": 1144929,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfl.jpg"
+        },
+        {
+          "id": 1144930,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfm.jpg"
+        },
+        {
+          "id": 1144931,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfn.jpg"
+        },
+        {
+          "id": 1144932,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfo.jpg"
+        },
+        {
+          "id": 1144933,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfp.jpg"
+        },
+        {
+          "id": 1144934,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfq.jpg"
+        },
+        {
+          "id": 1144935,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfr.jpg"
+        },
+        {
+          "id": 1144936,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfs.jpg"
+        },
+        {
+          "id": 1144937,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojft.jpg"
+        },
+        {
+          "id": 1144938,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfu.jpg"
+        },
+        {
+          "id": 1144939,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scojfv.jpg"
+        }
+      ],
+      "slug": "final-fantasy-vii-rebirth",
+      "storyline": "For years now, the Shinra Electric Power Company has been providing the world with energy at the expense of the lifestream, the “river” whence all life flows and whither it returns. After storming the company’s headquarters and engaging in a series of battles for the ages, Cloud and his companions leave Midgar behind and set out for the wider world. Once in the grasslands, they hop aboard chocobos and embark on a journey with an unknown destination.\n\nMeanwhile, Zack—beaten and battered from his fight against an army of troopers—hobbles across the wastelands into Midgar with a mako-poisoned Cloud on his shoulder. Though he has managed to escape death for now, the ominous rift in the sky gives him little reason to rejoice.\n\nThat is hardly the only threat facing the world, however. The Shinra Resistance Committee, backed by Wutai’s interim government, declares war on the company; figures shrouded in black robes carry with them the corpse of Jenova, a veritable calamity from another world; and the Weapons—fierce and monstrous guardians of the planet—have recently awakened.\n\nAmid this chaos, Sephiroth has set his plan in motion, thus ensuring myriad fates intertwine and are birthed anew.",
+      "summary": "Final Fantasy VII Rebirth is the new story in the Final Fantasy VII remake project, a reimagining of the iconic original game into three standalone titles by its original creators. In this game, players will enjoy various new elements as the story unfolds, culminating in the midpoint from the original Final Fantasy VII.",
+      "total_rating": 91.90271932961814,
+      "videos": [
+        {
+          "id": 70249,
+          "video_id": "H_4CkyOmuuU"
+        },
+        {
+          "id": 91305,
+          "video_id": "HkD8BCCYsS0"
+        },
+        {
+          "id": 97934,
+          "video_id": "lNVL-ygqw3w"
+        },
+        {
+          "id": 103069,
+          "video_id": "okGnXYjvJRM"
+        }
+      ]
+    },
+    {
+      "id": 26602,
+      "categories": [
+        1,
+        2,
+        3
+      ],
+      "cover": {
+        "id": 390449,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8d9t.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/metaphor-refantazio/minitrailer.webm"
+      },
+      "name": "Metaphor: ReFantazio",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1068722,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwmq.jpg"
+        },
+        {
+          "id": 1068723,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwmr.jpg"
+        },
+        {
+          "id": 1068724,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwms.jpg"
+        },
+        {
+          "id": 1068725,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwmt.jpg"
+        },
+        {
+          "id": 1068726,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwmu.jpg"
+        }
+      ],
+      "slug": "metaphor-refantazio",
+      "storyline": "Our story takes place in The United Kingdom of Euchronia, where the assassination of the king brings chaos and unrest to the land.\n\nThen, one fateful day, a megic known only to the king called the Royal Magic is invoked, and the world becomes embroiled in a royal tournament for the throne.\n\nIn the midst of this, the protagonist, together with his partner, the fairy Galica, must find a way to break the curse that has been placed on the prince that the kingdom believes to be dead. To do so, they depart on a journey across the vast lands.\n\nThey will discover that in order to achieve their goal, they must participate in the tournament for the throne, and this great task shall require them to ally with many friends and followers of the various tribes inhabiliting the world.",
+      "summary": "From the creative minds of the Persona series – Metaphor: ReFantazio marks ATLUS’ first ever, full-scale fantasy RPG, brought to you by director Katsura Hashino, character designer Shigenori Soejima, and composer Shoji Meguro.\n\nWrite your destiny and rise above fear as you step into a fantasy world unlike anything you’ve seen before. Fraught with unsettling mystery, the kingdom stands on a precipice. Now, you must embark on a journey, overcoming obstacles and forging bonds with friends.",
+      "total_rating": 96.94078358302036,
+      "videos": [
+        {
+          "id": 17260,
+          "video_id": "1e4vOxUIsRs"
+        },
+        {
+          "id": 17261,
+          "video_id": "reYl4RUpF_M"
+        },
+        {
+          "id": 91684,
+          "video_id": "btHGCpUPjPk"
+        },
+        {
+          "id": 103059,
+          "video_id": "Q4bGNzXnKak"
+        },
+        {
+          "id": 111972,
+          "video_id": "zmMz9QjUHmA"
+        },
+        {
+          "id": 115538,
+          "video_id": "GfgkVGFhN8A"
+        },
+        {
+          "id": 123906,
+          "video_id": "I_-BPELOl0M"
+        },
+        {
+          "id": 127674,
+          "video_id": "zItvCKVaUrI"
+        }
+      ]
+    },
+    {
+      "id": 217623,
+      "categories": [
+        2
+      ],
+      "cover": {
+        "id": 377322,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8356.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/like-a-dragon-infinite-wealth/minitrailer.webm"
+      },
+      "name": "Like a Dragon: Infinite Wealth",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1148619,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma3.jpg"
+        },
+        {
+          "id": 1148620,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma4.jpg"
+        },
+        {
+          "id": 1148621,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma5.jpg"
+        },
+        {
+          "id": 1148622,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma6.jpg"
+        },
+        {
+          "id": 1148623,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma7.jpg"
+        },
+        {
+          "id": 1148624,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scoma8.jpg"
+        }
+      ],
+      "slug": "like-a-dragon-infinite-wealth",
+      "summary": "Two larger-than-life heroes, Ichiban Kasuga and Kazuma Kiryu are brought together by the hand of fate, or perhaps something more sinister… Live it up in Japan and explore all that Hawaii has to offer in an RPG adventure so big it spans the Pacific.\n\nLike a Dragon 8 is the next installment in the Yakuza series that will feature Ichiban and Kiryu as dual protagonists.",
+      "total_rating": 84.85113204792472,
+      "videos": [
+        {
+          "id": 74692,
+          "video_id": "Fx0YMVgCD5E"
+        },
+        {
+          "id": 91678,
+          "video_id": "3Q1HRYrO1Gw"
+        },
+        {
+          "id": 98216,
+          "video_id": "BpmYdgZc-bM"
+        },
+        {
+          "id": 98331,
+          "video_id": "jeTFK18PjnM"
+        },
+        {
+          "id": 100417,
+          "video_id": "yU6qZi6zxRY"
+        },
+        {
+          "id": 102521,
+          "video_id": "1tG0Cbr2wVY"
+        }
+      ]
+    },
+    {
+      "id": 127342,
+      "categories": [
+        2
+      ],
+      "cover": {
+        "id": 375196,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co81i4.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/senuas-saga-hellblade-ii/minitrailer.webm"
+      },
+      "name": "Senua's Saga: Hellblade II",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 384095,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc88db.jpg"
+        },
+        {
+          "id": 384096,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc88dc.jpg"
+        }
+      ],
+      "slug": "senuas-saga-hellblade-ii",
+      "summary": "The sequel to the award winning Hellblade: Senua’s Sacrifice, Senua returns in a brutal journey of survival through the myth and torment of Viking Iceland. Intent on saving those who have fallen victim to the horrors of tyranny, Senua faces a battle of overcoming the darkness within and without.",
+      "total_rating": 74.35394963359917,
+      "videos": [
+        {
+          "id": 31897,
+          "video_id": "qJWI4bkD9ZM"
+        },
+        {
+          "id": 61894,
+          "video_id": "fukYzbthEVU"
+        },
+        {
+          "id": 91676,
+          "video_id": "nRqLDCBxW04"
+        },
+        {
+          "id": 91941,
+          "video_id": "vIayxOTplqU"
+        },
+        {
+          "id": 103073,
+          "video_id": "TcB741_6Vs4"
+        },
+        {
+          "id": 105282,
+          "video_id": "_bV3dX1G534"
+        },
+        {
+          "id": 113961,
+          "video_id": "PRbOmIcVXak"
+        }
+      ]
+    },
+    {
+      "id": 222341,
+      "categories": [
+        2,
+        3
+      ],
+      "cover": {
+        "id": 260776,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5l7s.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/silent-hill-2/minitrailer.webm"
+      },
+      "name": "Silent Hill 2",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 906706,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfma.jpg"
+        },
+        {
+          "id": 906707,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmb.jpg"
+        },
+        {
+          "id": 906708,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmc.jpg"
+        },
+        {
+          "id": 906709,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmd.jpg"
+        },
+        {
+          "id": 906710,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfme.jpg"
+        },
+        {
+          "id": 906711,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmf.jpg"
+        },
+        {
+          "id": 906712,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmg.jpg"
+        },
+        {
+          "id": 906713,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjfmh.jpg"
+        },
+        {
+          "id": 1405100,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu46k.jpg"
+        },
+        {
+          "id": 1405101,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu46l.jpg"
+        }
+      ],
+      "slug": "silent-hill-2--1",
+      "storyline": "Having received a letter from his deceased wife,\nJames heads to where they shared so many memories,\nin the hope of seeing her one more time: Silent Hill.\nThere, by the lake, he finds a woman eerily similar to her...\n\n\"My name...is Maria,\" the woman smiles. Her face, her voice... She's just like her.",
+      "summary": "Investigating a letter from his late wife, James returns to where they made so many memories - Silent Hill. What he finds is a ghost town, prowled by disturbing monsters and cloaked in deep fog. Confront the monsters, solve puzzles, and search for traces of your wife in this remake of Silent Hill 2.",
+      "total_rating": 88.49403007011344,
+      "videos": [
+        {
+          "id": 76711,
+          "video_id": "8qPdInnvMzg"
+        },
+        {
+          "id": 106282,
+          "video_id": "ayKICAIUHkA"
+        },
+        {
+          "id": 114730,
+          "video_id": "GiLbQVne110"
+        },
+        {
+          "id": 123172,
+          "video_id": "CMvrMTmuJuA"
+        },
+        {
+          "id": 128833,
+          "video_id": "VDO39mY2gq4"
+        },
+        {
+          "id": 132310,
+          "video_id": "tSYNa7l1Bz4"
+        }
+      ]
+    },
+    {
+      "id": 117170,
+      "categories": [
+        3,
+        6
+      ],
+      "cover": {
+        "id": 359280,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7p80.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/stellar-blade/minitrailer.webm"
+      },
+      "name": "Stellar Blade",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 297723,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq3.jpg"
+        },
+        {
+          "id": 297724,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq4.jpg"
+        },
+        {
+          "id": 297725,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq5.jpg"
+        },
+        {
+          "id": 297726,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq6.jpg"
+        },
+        {
+          "id": 297727,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq7.jpg"
+        },
+        {
+          "id": 297728,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq8.jpg"
+        },
+        {
+          "id": 882797,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix65.jpg"
+        },
+        {
+          "id": 882798,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix66.jpg"
+        },
+        {
+          "id": 882799,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix67.jpg"
+        }
+      ],
+      "slug": "stellar-blade",
+      "summary": "Eve and her comrades land on the surface to reclaim the extinct Earth and cross paths with a survivor named Adam. Eve is then led by Adam to the last surviving city, Xion, where she meets the elder of the town Orcal and is told many stories. In order to serve her mission to save Earth, Eve develops close relationships with the key members of Xion and contributes to rebuilding the city.\n\nOn a mission to save Earth from the NA:tive, Eve is also faced with helping out the citizens of Xion. Whether you will help the survivors or not, depends purely on your decision as the player.\n\nThe game originally was announced as \"Project Eve\" in 2019. It was set to release for PS4/Xbox One consoles and PC, but a September 2022 State of Play revealed the game would instead launch only on PS5 and PC.",
+      "total_rating": 81.38033786340732,
+      "videos": [
+        {
+          "id": 26267,
+          "video_id": "vLsSuuSAIys"
+        },
+        {
+          "id": 54550,
+          "video_id": "3X3JR3pG0I8"
+        },
+        {
+          "id": 74670,
+          "video_id": "ayek3ZzWb1E"
+        },
+        {
+          "id": 106285,
+          "video_id": "WQpFj2rfkKQ"
+        },
+        {
+          "id": 110537,
+          "video_id": "U8V--DUxheg"
+        },
+        {
+          "id": 112655,
+          "video_id": "DSznLWimMlU"
+        },
+        {
+          "id": 114869,
+          "video_id": "p3YKZJhbctY"
+        },
+        {
+          "id": 114870,
+          "video_id": "HZ9B0lKgTCs"
+        },
+        {
+          "id": 114871,
+          "video_id": "Jp6IyW0mZ9g"
+        },
+        {
+          "id": 114872,
+          "video_id": "lURBM0Mgtes"
+        }
+      ]
+    },
+    {
+      "id": 302156,
+      "categories": [
+        4,
+        6
+      ],
+      "cover": {
+        "id": 419284,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zis.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/call-of-duty-black-ops-6/minitrailer.webm"
+      },
+      "name": "Call of Duty: Black Ops 6",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1337932,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsocs.jpg"
+        },
+        {
+          "id": 1337933,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoct.jpg"
+        },
+        {
+          "id": 1339353,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspg9.jpg"
+        },
+        {
+          "id": 1339354,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspga.jpg"
+        },
+        {
+          "id": 1339355,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgb.jpg"
+        },
+        {
+          "id": 1339357,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgd.jpg"
+        },
+        {
+          "id": 1339358,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspge.jpg"
+        },
+        {
+          "id": 1339360,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgg.jpg"
+        },
+        {
+          "id": 1339361,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgh.jpg"
+        },
+        {
+          "id": 1339362,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgi.jpg"
+        },
+        {
+          "id": 1339365,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgl.jpg"
+        },
+        {
+          "id": 1339366,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scspgm.jpg"
+        },
+        {
+          "id": 1384643,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoeb.jpg"
+        },
+        {
+          "id": 1384644,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoec.jpg"
+        },
+        {
+          "id": 1414671,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scubkf.jpg"
+        },
+        {
+          "id": 1414672,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scubkg.jpg"
+        },
+        {
+          "id": 1414673,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scubkh.jpg"
+        },
+        {
+          "id": 1414674,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scubki.jpg"
+        }
+      ],
+      "slug": "call-of-duty-black-ops-6",
+      "summary": "Developed by Treyarch and Raven, Black Ops 6 is a spy action thriller set in the early 90s, a period of transition and upheaval in global politics, characterized by the end of the Cold War and the rise of the United States as a single superpower. With a mind-bending narrative, and unbound by the rules of engagement, this is signature Black Ops.\n\nThe Black Ops 6 Campaign provides dynamic moment-to-moment gameplay that includes a variety of play spaces with blockbuster set pieces and action-packed moments, high-stakes heists, and cloak-and-dagger spy activity.\n\nIn a best-in-class Multiplayer experience, players will test their skills across 16 new maps at launch, including 12 core 6v6 maps and 4 Strike maps that can be played 2v2 or 6v6.\n\nBlack Ops 6 also marks the epic return of Round-Based Zombies, the fan-favorite mode where players will take down hordes of the undead in two brand-new maps at launch. Post-launch, players can look forward to even more exciting maps and groundbreaking experiences dropping into both Multiplayer and Zombies.",
+      "total_rating": 79.16076431044081,
+      "videos": [
+        {
+          "id": 114429,
+          "video_id": "V08UPqchVgQ"
+        },
+        {
+          "id": 115700,
+          "video_id": "8Ck15l7DMY0"
+        },
+        {
+          "id": 123426,
+          "video_id": "dqEvH7TBSnA"
+        }
+      ]
+    },
+    {
+      "id": 275171,
+      "categories": [
+        4
+      ],
+      "cover": {
+        "id": 392266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8eoa.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/diablo-iv-vessel-of-hatred/minitrailer.webm"
+      },
+      "name": "Diablo IV: Vessel of Hatred",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1337994,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoei.jpg"
+        },
+        {
+          "id": 1337995,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoej.jpg"
+        },
+        {
+          "id": 1337996,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoek.jpg"
+        },
+        {
+          "id": 1337997,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoel.jpg"
+        },
+        {
+          "id": 1337998,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoem.jpg"
+        },
+        {
+          "id": 1337999,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoen.jpg"
+        }
+      ],
+      "slug": "diablo-iv-vessel-of-hatred",
+      "summary": "The battle against Hatred has only just begun.\nJourney into the new region of Nahantu in search of Neyrelle, who is both suffering the fate of her choice to imprison the Prime Evil Mephisto, and seeking a means to destroy him.\nBecome the apex predator of the jungle as the all-new Spiritborn class. Recruit Mercenaries to aid you in combat, fight together in a new PvE co-op activity, & more.",
+      "total_rating": 72.0,
+      "videos": [
+        {
+          "id": 100857,
+          "video_id": "gHuaCwmx-Rg"
+        },
+        {
+          "id": 120823,
+          "video_id": "RINJ5xCWkF0"
+        },
+        {
+          "id": 121175,
+          "video_id": "mtM0WpHEjWU"
+        },
+        {
+          "id": 123468,
+          "video_id": "h_RHvTVnBiI"
+        },
+        {
+          "id": 123603,
+          "video_id": "qAD0Py0I-PM"
+        }
+      ]
+    },
+    {
+      "id": 30208,
+      "categories": [
+        4
+      ],
+      "cover": {
+        "id": 394673,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8gj5.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/dragon-age-the-veilguard/minitrailer.webm"
+      },
+      "name": "Dragon Age: The Veilguard",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1347707,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwb.jpg"
+        },
+        {
+          "id": 1347708,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwc.jpg"
+        },
+        {
+          "id": 1347709,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwd.jpg"
+        },
+        {
+          "id": 1347710,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwe.jpg"
+        },
+        {
+          "id": 1347711,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwf.jpg"
+        },
+        {
+          "id": 1347712,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwg.jpg"
+        },
+        {
+          "id": 1347713,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsvwh.jpg"
+        }
+      ],
+      "slug": "dragon-age-the-veilguard",
+      "storyline": "Rise as Rook, Dragon Age’s newest hero. Be who you want to be and play how you want to play as you fight back and lead your team of seven companions, each with their own rich story. Together, you will become the Veilguard.",
+      "summary": "Select from different races and combat classes, customize your appearance, choose your character’s backstory and begin your journey as Rook, Dragon Age’s newest hero.\n\nSelect from three classes (Warrior, Mage, and Rogue), each with two distinct weapon types and unique abilities you can select between mid-combat. Experience new strategic depth as you combine fast-paced attacks, parries, and dodges with the companion ability wheel to exploit enemy weaknesses and seize victory with devastating combat combos.\n\nThe Veilguard contains several different factions, any of these could prove to be important ally during the story. Your faction choice will influence Rook's backstory, conversation options and more.",
+      "total_rating": 66.43926565240429,
+      "videos": [
+        {
+          "id": 38856,
+          "video_id": "Nw3lrXlti-8"
+        },
+        {
+          "id": 40085,
+          "video_id": "acSr9Ki7P_w"
+        },
+        {
+          "id": 43597,
+          "video_id": "W7x685DxMcw"
+        },
+        {
+          "id": 102848,
+          "video_id": "tCokMTQ6qKk"
+        },
+        {
+          "id": 115710,
+          "video_id": "drVOCrvXHhE"
+        },
+        {
+          "id": 116174,
+          "video_id": "CTNwHShylIg"
+        },
+        {
+          "id": 122773,
+          "video_id": "g8DkDQhPx2A"
+        },
+        {
+          "id": 127486,
+          "video_id": "AUOLOMDH-7M"
+        },
+        {
+          "id": 130683,
+          "video_id": "NdtmtuzICOI"
+        }
+      ]
+    },
+    {
+      "id": 252476,
+      "categories": [
+        4
+      ],
+      "cover": {
+        "id": 307926,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lli.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/prince-of-persia-the-lost-crown/minitrailer.webm"
+      },
+      "name": "Prince of Persia: The Lost Crown",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 14,
+          "name": "Mac"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 130,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1067433,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmvmx.jpg"
+        },
+        {
+          "id": 1070089,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmxop.jpg"
+        },
+        {
+          "id": 1070090,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmxoq.jpg"
+        },
+        {
+          "id": 1070091,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmxor.jpg"
+        },
+        {
+          "id": 1070092,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmxos.jpg"
+        }
+      ],
+      "slug": "prince-of-persia-the-lost-crown",
+      "summary": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate.\nPlay as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
+      "total_rating": 84.62974647286069,
+      "videos": [
+        {
+          "id": 91803,
+          "video_id": "MmX7a_e65uU"
+        },
+        {
+          "id": 91804,
+          "video_id": "wxP9Mx3AdEk"
+        },
+        {
+          "id": 91805,
+          "video_id": "T3qsC8T42Ag"
+        },
+        {
+          "id": 91810,
+          "video_id": "jTGTfSOKKSc"
+        },
+        {
+          "id": 97875,
+          "video_id": "Ydt6Q6ajwj4"
+        },
+        {
+          "id": 103075,
+          "video_id": "wGXEkNHil_8"
+        },
+        {
+          "id": 116758,
+          "video_id": "XkJnsZ9NgB8"
+        },
+        {
+          "id": 116759,
+          "video_id": "Ke-pi068EXg"
+        }
+      ]
+    },
+    {
+      "id": 252827,
+      "categories": [
+        4
+      ],
+      "cover": {
+        "id": 336563,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co77oz.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/star-wars-outlaws/minitrailer.webm"
+      },
+      "name": "Star Wars Outlaws",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1107600,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnqmo.jpg"
+        },
+        {
+          "id": 1107601,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnqmp.jpg"
+        },
+        {
+          "id": 1107602,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnqmq.jpg"
+        },
+        {
+          "id": 1365991,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta07.jpg"
+        },
+        {
+          "id": 1365992,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta08.jpg"
+        }
+      ],
+      "slug": "star-wars-outlaws",
+      "summary": "Experience the first-ever open world Star Wars game, set between the events of The Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.",
+      "total_rating": 77.16290471106046,
+      "videos": [
+        {
+          "id": 95014,
+          "video_id": "ymcpwq1ltQc"
+        },
+        {
+          "id": 95015,
+          "video_id": "c7K2TA0bBpY"
+        },
+        {
+          "id": 95016,
+          "video_id": "kP-qOFPg314"
+        },
+        {
+          "id": 111010,
+          "video_id": "tcdKEy-aJ6o"
+        },
+        {
+          "id": 115514,
+          "video_id": "I6tA_o8uzUI"
+        },
+        {
+          "id": 116091,
+          "video_id": "Kwo41nUwyeo"
+        },
+        {
+          "id": 123772,
+          "video_id": "HlfuN4yj3yg"
+        }
+      ]
+    },
+    {
+      "id": 313768,
+      "categories": [
+        5
+      ],
+      "cover": {
+        "id": 405305,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8oqh.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/arizona-sunshine-remake/minitrailer.webm"
+      },
+      "name": "Arizona Sunshine Remake",
+      "platforms": [
+        {
+          "id": 163,
+          "name": "SteamVR"
+        },
+        {
+          "id": 386,
+          "name": "Meta Quest 2"
+        },
+        {
+          "id": 390,
+          "name": "PlayStation VR2"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1383345,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctne9.jpg"
+        },
+        {
+          "id": 1383346,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnea.jpg"
+        },
+        {
+          "id": 1383347,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctneb.jpg"
+        },
+        {
+          "id": 1383348,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnec.jpg"
+        },
+        {
+          "id": 1383349,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctned.jpg"
+        }
+      ],
+      "slug": "arizona-sunshine-remake",
+      "summary": "Arizona Sunshine Remake elevates the original, award-winning game, completely rebuilt with GORE-geous VR graphics and next-gen VR combat and weapons. Face the undead alone or with up to three fellow survivors in a post-apocalyptic southwestern America overrun by zombies.",
+      "total_rating": 80.0,
+      "videos": [
+        {
+          "id": 122840,
+          "video_id": "ElEp5p1oyO4"
+        }
+      ]
+    },
+    {
+      "id": 251569,
+      "categories": [
+        5
+      ],
+      "cover": {
+        "id": 353081,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7kft.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/asgards-wrath-ii/minitrailer.webm"
+      },
+      "name": "Asgard’s Wrath II",
+      "platforms": [
+        {
+          "id": 386,
+          "name": "Meta Quest 2"
+        },
+        {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1061809,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmrap.jpg"
+        },
+        {
+          "id": 1061810,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmraq.jpg"
+        },
+        {
+          "id": 1061811,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmrar.jpg"
+        },
+        {
+          "id": 1061812,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmras.jpg"
+        }
+      ],
+      "slug": "asgards-wrath-ii",
+      "summary": "Awaken, Cosmic Guardian – The fate of reality lies in your hands. Travel across vast realms inhabited by the gods in pursuit of the Trickster God Loki, who threatens to undo the threads of the universe. It’s up to you to battle gods and monsters alike as you take on one of the biggest and most epic scale Action RPGs ever experienced in VR. Alongside legendary Egyptian gods, you’ll fight deadly warriors and awe-inspiring mythical creatures through physics-based, visceral combat with unique weapons and playstyles. Possess unique mortal heroes and convert loyal animals into your own warrior followers as you explore a massive, free-roaming and living world and solve mind-bending god-scale puzzles.",
+      "total_rating": 95.0,
+      "videos": [
+        {
+          "id": 90807,
+          "video_id": "qSGbejtHEL0"
+        },
+        {
+          "id": 103118,
+          "video_id": "1fmrPW6wEdc"
+        },
+        {
+          "id": 115535,
+          "video_id": "bAlg73UA8kA"
+        }
+      ]
+    },
+    {
+      "id": 299736,
+      "categories": [
+        5
+      ],
+      "cover": {
+        "id": 380370,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co85hu.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/batman-arkham-shadow/minitrailer.webm"
+      },
+      "name": "Batman: Arkham Shadow",
+      "platforms": [
+        {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1327019,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsfxn.jpg"
+        }
+      ],
+      "slug": "batman-arkham-shadow",
+      "summary": "Gotham City is in danger. And you’re the only one who can save it.\n\nPrepare to enter Gotham for a new story set in the Batman: Arkham franchise.",
+      "total_rating": 80.0,
+      "videos": [
+        {
+          "id": 112615,
+          "video_id": "DDOI0pXdcGY"
+        },
+        {
+          "id": 115539,
+          "video_id": "8yk3HKhe5mo"
+        },
+        {
+          "id": 123478,
+          "video_id": "dadLtfngQH8"
+        }
+      ]
+    },
+    {
+      "id": 294174,
+      "categories": [
+        5
+      ],
+      "cover": {
+        "id": 391789,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8eb1.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/metal-hellsinger-vr/minitrailer.webm"
+      },
+      "name": "Metal: Hellsinger VR",
+      "platforms": [
+        {
+          "id": 163,
+          "name": "SteamVR"
+        },
+        {
+          "id": 386,
+          "name": "Meta Quest 2"
+        },
+        {
+          "id": 390,
+          "name": "PlayStation VR2"
+        },
+        {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1284922,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrjga.jpg"
+        },
+        {
+          "id": 1284926,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrjge.jpg"
+        },
+        {
+          "id": 1284927,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrjgf.jpg"
+        },
+        {
+          "id": 1284930,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrjgi.jpg"
+        },
+        {
+          "id": 1284932,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrjgk.jpg"
+        }
+      ],
+      "slug": "metal-hellsinger-vr",
+      "summary": "Slay to the beat as the award-winning score of Metal: Hellsinger VR thunders through your body. Experience the smash-hit rhythm FPS like never before and enter a state of unparallelled flow. Show the Hells the meaning of metal.",
+      "total_rating": 75.0,
+      "videos": [
+        {
+          "id": 117413,
+          "video_id": "hEA5dKnUj5k"
+        },
+        {
+          "id": 117414,
+          "video_id": "sqwqHF9S-v4"
+        },
+        {
+          "id": 117455,
+          "video_id": "WjfChQFf3SY"
+        }
+      ]
+    },
+    {
+      "id": 284720,
+      "categories": [
+        5
+      ],
+      "cover": {
+        "id": 359384,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7paw.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/metro-awakening-vr/minitrailer.webm"
+      },
+      "name": "Metro Awakening VR",
+      "platforms": [
+        {
+          "id": 163,
+          "name": "SteamVR"
+        },
+        {
+          "id": 386,
+          "name": "Meta Quest 2"
+        },
+        {
+          "id": 390,
+          "name": "PlayStation VR2"
+        },
+        {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1229182,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqcfy.jpg"
+        },
+        {
+          "id": 1229183,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqcfz.jpg"
+        },
+        {
+          "id": 1229184,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqcg0.jpg"
+        },
+        {
+          "id": 1229185,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqcg1.jpg"
+        },
+        {
+          "id": 1231016,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqduw.jpg"
+        },
+        {
+          "id": 1231019,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqduz.jpg"
+        }
+      ],
+      "slug": "metro-awakening-vr",
+      "storyline": "The year is 2028. The survivors of nuclear Armageddon cling to existence in the buried subways of the Moscow Metro – civilization’s last refuge and tomb, where ghosts and spirits haunt the living in this man-made purgatory.\n\nYou are Serdar, a doctor braving the darkness, crippling radiation and deadly threats of the Metro in the search for your wife and the medication she so desperately needs. As your courage and sanity are pushed to the limit you must learn to walk the line between life and death, the spirit and the material world, and awaken the being you will become…",
+      "summary": "Metro Awakening is a story-driven first person adventure built for VR that blends atmospheric exploration, stealth and combat in the most immersive Metro experience yet.\n\nDon your gas mask, brave the crippling radiation and venture into the depths of the Metro where threats haunt your every…",
+      "total_rating": 85.0,
+      "videos": [
+        {
+          "id": 106401,
+          "video_id": "984iLrRYHtQ"
+        },
+        {
+          "id": 127472,
+          "video_id": "4dvFiSwPFkU"
+        },
+        {
+          "id": 132246,
+          "video_id": "v9j3xpmd4ag"
+        }
+      ]
+    },
+    {
+      "id": 250616,
+      "categories": [
+        6
+      ],
+      "cover": {
+        "id": 331836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co741o.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/helldivers-2/minitrailer.webm"
+      },
+      "name": "Helldivers 2",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1056838,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngm.jpg"
+        },
+        {
+          "id": 1056839,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngn.jpg"
+        },
+        {
+          "id": 1056840,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngo.jpg"
+        },
+        {
+          "id": 1084834,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn92a.jpg"
+        },
+        {
+          "id": 1084835,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn92b.jpg"
+        },
+        {
+          "id": 1084836,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn92c.jpg"
+        },
+        {
+          "id": 1084837,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn92d.jpg"
+        },
+        {
+          "id": 1084838,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn92e.jpg"
+        },
+        {
+          "id": 1381716,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctm50.jpg"
+        },
+        {
+          "id": 1381717,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctm51.jpg"
+        },
+        {
+          "id": 1381718,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctm52.jpg"
+        }
+      ],
+      "slug": "helldivers-2",
+      "summary": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+      "total_rating": 84.24729355795169,
+      "videos": [
+        {
+          "id": 90300,
+          "video_id": "rE7KTE28HrA"
+        },
+        {
+          "id": 93260,
+          "video_id": "sqCxyt5QRSg"
+        },
+        {
+          "id": 97939,
+          "video_id": "lUaaT_k9Nv8"
+        },
+        {
+          "id": 103116,
+          "video_id": "00vttMQgFWA"
+        },
+        {
+          "id": 105113,
+          "video_id": "oD3pxbG9YYI"
+        },
+        {
+          "id": 105582,
+          "video_id": "22rg3bHqSVc"
+        },
+        {
+          "id": 106286,
+          "video_id": "t8hK7r2Meys"
+        },
+        {
+          "id": 107591,
+          "video_id": "WsYK0Y6mjFE"
+        }
+      ]
+    },
+    {
+      "id": 185252,
+      "categories": [
+        6
+      ],
+      "cover": {
+        "id": 273827,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vab.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/warhammer-40,000-space-marine-ii/minitrailer.webm"
+      },
+      "name": "Warhammer 40,000: Space Marine II",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 946380,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scka8c.jpg"
+        },
+        {
+          "id": 946381,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scka8d.jpg"
+        },
+        {
+          "id": 946382,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scka8e.jpg"
+        },
+        {
+          "id": 946383,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scka8f.jpg"
+        },
+        {
+          "id": 946384,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scka8g.jpg"
+        },
+        {
+          "id": 1147407,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scolcf.jpg"
+        },
+        {
+          "id": 1392002,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctu2q.jpg"
+        }
+      ],
+      "slug": "warhammer-40000-space-marine-ii",
+      "storyline": "The galaxy is in peril. Entire worlds are falling. The Imperium needs you.\n\nEmbody the superhuman skill and brutality of a Space Marine, the greatest of the Emperor’s warriors. Unleash deadly abilities and an arsenal of devastating weaponry to obliterate the relentless Tyranid hordes.\n\nHold at bay the horrors of the galaxy in epic battles on far-flung planets. Uncover dark secrets and drive back the everlasting night to prove your ultimate loyalty to humanity.\n\nHeed the call of battle.\n\nFor there is only war.",
+      "summary": "The galaxy is in peril. Entire worlds are falling. The Imperium needs you. Embody the superhuman skill and brutality of a Space Marine, the greatest of the Emperor's warriors, with Clive Standen (Vikings, Taken) as the iconic Captain Titus. Unleash deadly abilities and an arsenal of devastating weaponry to obliterate the relentless Tyranid hordes. Hold at bay the horrors of the galaxy in epic battles on far-flung planets. Uncover dark secrets and drive back the everlasting night to prove your ultimate loyalty to humanity.",
+      "total_rating": 79.92626922953446,
+      "videos": [
+        {
+          "id": 61867,
+          "video_id": "-IEAomO1Fac"
+        },
+        {
+          "id": 80605,
+          "video_id": "uEIHmvi8wok"
+        },
+        {
+          "id": 90393,
+          "video_id": "zcNZDxzZxYA"
+        },
+        {
+          "id": 90419,
+          "video_id": "xBGt1JP0NTA"
+        },
+        {
+          "id": 91325,
+          "video_id": "oDXfraIHzHg"
+        },
+        {
+          "id": 96301,
+          "video_id": "uzucEQ-VhHQ"
+        },
+        {
+          "id": 96792,
+          "video_id": "3y9J-03WaQI"
+        },
+        {
+          "id": 103117,
+          "video_id": "6j8kyZ8LwdQ"
+        },
+        {
+          "id": 114178,
+          "video_id": "mnvlCVDb7PY"
+        },
+        {
+          "id": 115537,
+          "video_id": "gDKEbqmYJbc"
+        },
+        {
+          "id": 115921,
+          "video_id": "q3Q9dtyj9Kk"
+        },
+        {
+          "id": 116938,
+          "video_id": "43jmv9llmKU"
+        },
+        {
+          "id": 123443,
+          "video_id": "JOCMjXvimcU"
+        },
+        {
+          "id": 124652,
+          "video_id": "1-9YVcpnGyU"
+        },
+        {
+          "id": 125297,
+          "video_id": "buT5yuGwg8s"
+        },
+        {
+          "id": 125437,
+          "video_id": "1fZvoHvk7ek"
+        }
+      ]
+    },
+    {
+      "id": 279634,
+      "categories": [
+        7
+      ],
+      "cover": {
+        "id": 388139,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bhn.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/dragon-ball-sparking-zero/minitrailer.webm"
+      },
+      "name": "Dragon Ball: Sparking! Zero",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1206520,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyg.jpg"
+        },
+        {
+          "id": 1206521,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyh.jpg"
+        },
+        {
+          "id": 1206522,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyi.jpg"
+        },
+        {
+          "id": 1206523,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyj.jpg"
+        },
+        {
+          "id": 1206524,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyk.jpg"
+        },
+        {
+          "id": 1206525,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpuyl.jpg"
+        },
+        {
+          "id": 1400386,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0jm.jpg"
+        },
+        {
+          "id": 1400387,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0jn.jpg"
+        }
+      ],
+      "slug": "dragon-ball-sparking-zero",
+      "storyline": "Shake the earth. Break the heavens. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+      "summary": "Dragon Ball: Sparking! Zero takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+      "total_rating": 90.11992063756422,
+      "videos": [
+        {
+          "id": 103060,
+          "video_id": "bSCANspTDeE"
+        },
+        {
+          "id": 106555,
+          "video_id": "O5CzC1aFVAw"
+        },
+        {
+          "id": 115541,
+          "video_id": "N8Zm___c4B8"
+        },
+        {
+          "id": 117534,
+          "video_id": "NDGeWO_am1c"
+        },
+        {
+          "id": 118662,
+          "video_id": "E5i04ojIwPQ"
+        },
+        {
+          "id": 123434,
+          "video_id": "cKL2WqIpZ0s"
+        },
+        {
+          "id": 123792,
+          "video_id": "BfzYtPwVZ6A"
+        },
+        {
+          "id": 128302,
+          "video_id": "7AY9z8a9Iu0"
+        },
+        {
+          "id": 128303,
+          "video_id": "CZprM9uk-1M"
+        },
+        {
+          "id": 128304,
+          "video_id": "gkUUdD_ks68"
+        },
+        {
+          "id": 129322,
+          "video_id": "Dfbu3CJS0uY"
+        }
+      ]
+    },
+    {
+      "id": 232699,
+      "categories": [
+        7
+      ],
+      "cover": {
+        "id": 322238,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6wn2.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/granblue-fantasy-versus-rising/minitrailer.webm"
+      },
+      "name": "Granblue Fantasy Versus: Rising",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1106358,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpo6.jpg"
+        },
+        {
+          "id": 1106361,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpo9.jpg"
+        },
+        {
+          "id": 1106362,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpoa.jpg"
+        },
+        {
+          "id": 1106363,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpob.jpg"
+        },
+        {
+          "id": 1106364,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpoc.jpg"
+        },
+        {
+          "id": 1106365,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpod.jpg"
+        },
+        {
+          "id": 1106366,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnpoe.jpg"
+        },
+        {
+          "id": 1112386,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnubm.jpg"
+        },
+        {
+          "id": 1112387,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnubn.jpg"
+        },
+        {
+          "id": 1112388,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnubo.jpg"
+        },
+        {
+          "id": 1112389,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnubp.jpg"
+        },
+        {
+          "id": 1112390,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnubq.jpg"
+        }
+      ],
+      "slug": "granblue-fantasy-versus-rising",
+      "storyline": "A Captivating Story Campaign Awaits\n\nEmbark on a journey through the vast skies of Granblue Fantasy and immerse yourself in an epic adventure while mastering the fundamentals of gameplay. As you take on more quests in this action RPG-inspired experience, you'll continue to grow stronger.",
+      "summary": "Dare to rumble with the best like never before with all-new characters, mechanics, and modes in the sequel to the revolutionary fighting game praised by both newcomers and fighting game veterans alike.\n\nExperience even smoother and more responsive online play with rollback netcode and engage in battle cross-platform against players on PlayStation 5, PlayStation 4, and Steam!",
+      "total_rating": 86.21304302349907,
+      "videos": [
+        {
+          "id": 94901,
+          "video_id": "4Ln58g217C4"
+        },
+        {
+          "id": 94902,
+          "video_id": "Q4928u3tddI"
+        },
+        {
+          "id": 95242,
+          "video_id": "SbI26Ehde3g"
+        },
+        {
+          "id": 97791,
+          "video_id": "cKQ-zuT_FQQ"
+        },
+        {
+          "id": 97792,
+          "video_id": "vlDNacQSi9k"
+        },
+        {
+          "id": 97793,
+          "video_id": "SUPhAk-p0q0"
+        },
+        {
+          "id": 97794,
+          "video_id": "adsXBjPnlV0"
+        }
+      ]
+    },
+    {
+      "id": 306147,
+      "categories": [
+        7
+      ],
+      "cover": {
+        "id": 411225,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8tax.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/marvel-vs-capcom-fighting-collection-arcade-classics/minitrailer.webm"
+      },
+      "name": "Marvel vs. Capcom Fighting Collection: Arcade Classics",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1343455,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssm7.jpg"
+        },
+        {
+          "id": 1343456,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssm8.jpg"
+        },
+        {
+          "id": 1343457,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssm9.jpg"
+        },
+        {
+          "id": 1343458,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssma.jpg"
+        },
+        {
+          "id": 1343459,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssmb.jpg"
+        },
+        {
+          "id": 1343460,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssmc.jpg"
+        },
+        {
+          "id": 1343461,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssmd.jpg"
+        },
+        {
+          "id": 1343462,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssme.jpg"
+        },
+        {
+          "id": 1343463,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssmf.jpg"
+        },
+        {
+          "id": 1343464,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scssmg.jpg"
+        }
+      ],
+      "slug": "marvel-vs-capcom-fighting-collection-arcade-classics",
+      "storyline": "MvC2\nThe Armor of Erosion... It was supposed to be nothing but a fairy tale... But now its here and the end is approaching. The wheels of fate have brought forth a disaster of untold proportions. Marine life is twisted by the evil wind that blows in from the deep ocean. But light shines the brightest in the deepest dark, and our heroes have gathered. Their destination, the deep abyss known as the Sea of Genesis...",
+      "summary": "Dive into an action-packed lineup consisting of seven unique titles, including heavy hitters like X-MEN VS. STREET FIGHTER, and MARVEL vs. CAPCOM 2 New Age of Heroes. The collection also includes the rare beat 'em up game, THE PUNISHER.\n\nWhether you're new to the series or a nostalgic arcade veteran, players of all skill levels can enjoy these timeless classics together through local and online play!",
+      "total_rating": 89.4,
+      "videos": [
+        {
+          "id": 116704,
+          "video_id": "r4dWMgWrCMQ"
+        },
+        {
+          "id": 126192,
+          "video_id": "QNTZnjzFH8o"
+        }
+      ]
+    },
+    {
+      "id": 182278,
+      "categories": [
+        7
+      ],
+      "cover": {
+        "id": 371426,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7yle.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/multi-versus/minitrailer.webm"
+      },
+      "name": "MultiVersus",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 727547,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldn.jpg"
+        },
+        {
+          "id": 727549,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldp.jpg"
+        },
+        {
+          "id": 727551,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldr.jpg"
+        },
+        {
+          "id": 727553,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldt.jpg"
+        },
+        {
+          "id": 727554,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldu.jpg"
+        },
+        {
+          "id": 727556,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldw.jpg"
+        },
+        {
+          "id": 727558,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldy.jpg"
+        },
+        {
+          "id": 727559,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfldz.jpg"
+        },
+        {
+          "id": 727560,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfle0.jpg"
+        },
+        {
+          "id": 727561,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfle1.jpg"
+        }
+      ],
+      "slug": "multiversus",
+      "summary": "MultiVersus is a free-to-play platform fighter that brings the depth of iconic WB stars to life across the nearly endless possibilities of play.",
+      "total_rating": 72.4827198866744,
+      "videos": [
+        {
+          "id": 69791,
+          "video_id": "LeDRf_L2lOY"
+        },
+        {
+          "id": 114478,
+          "video_id": "-jpZPe0zblM"
+        },
+        {
+          "id": 114479,
+          "video_id": "C24Z-eStaBI"
+        },
+        {
+          "id": 114480,
+          "video_id": "W1Yx-Cz0l9U"
+        }
+      ]
+    },
+    {
+      "id": 217590,
+      "categories": [
+        7
+      ],
+      "cover": {
+        "id": 354215,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7lbb.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/tekken-8/minitrailer.webm"
+      },
+      "name": "Tekken 8",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1304819,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrysz.jpg"
+        },
+        {
+          "id": 1304820,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt0.jpg"
+        },
+        {
+          "id": 1304821,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt1.jpg"
+        },
+        {
+          "id": 1304822,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt2.jpg"
+        },
+        {
+          "id": 1304823,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt3.jpg"
+        },
+        {
+          "id": 1304824,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt4.jpg"
+        },
+        {
+          "id": 1304825,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt5.jpg"
+        },
+        {
+          "id": 1304826,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt6.jpg"
+        },
+        {
+          "id": 1304827,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt7.jpg"
+        },
+        {
+          "id": 1304828,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scryt8.jpg"
+        }
+      ],
+      "slug": "tekken-8",
+      "summary": "Tekken 8 is the eighth canon release and tenth overall entry in the Tekken series. The game's story features 32 former and new characters, each with their own narrative that contributes to the overall story. Tekken 8 features upgraded fighting elements and systems from its predecessor, it also introduces brand-new mechanics such as the \"Heat\" system and \"Tornado\" hits. Arcade Quest was another addition to their online mode which includes tournaments, arcade features, customizable avatars and specialized currency that is featured throughout the game.",
+      "total_rating": 82.72402492893895,
+      "videos": [
+        {
+          "id": 74933,
+          "video_id": "07FdDRbdurg"
+        },
+        {
+          "id": 74934,
+          "video_id": "2hPuRQz6IlM"
+        },
+        {
+          "id": 80613,
+          "video_id": "jGQBmSsunT4"
+        },
+        {
+          "id": 96191,
+          "video_id": "457g-rjA_cY"
+        }
+      ]
+    },
+    {
+      "id": 287578,
+      "categories": [
+        8
+      ],
+      "cover": {
+        "id": 378644,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co845w.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/f1-24/minitrailer.webm"
+      },
+      "name": "F1 24",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1250516,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswk.jpg"
+        },
+        {
+          "id": 1250517,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswl.jpg"
+        },
+        {
+          "id": 1250518,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswm.jpg"
+        },
+        {
+          "id": 1250519,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswn.jpg"
+        },
+        {
+          "id": 1250520,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswo.jpg"
+        },
+        {
+          "id": 1250521,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswp.jpg"
+        },
+        {
+          "id": 1250522,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswq.jpg"
+        },
+        {
+          "id": 1250523,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswr.jpg"
+        },
+        {
+          "id": 1250524,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqsws.jpg"
+        },
+        {
+          "id": 1250525,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqswt.jpg"
+        },
+        {
+          "id": 1308799,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vj.jpg"
+        },
+        {
+          "id": 1308800,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vk.jpg"
+        },
+        {
+          "id": 1308801,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vl.jpg"
+        },
+        {
+          "id": 1308802,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vm.jpg"
+        },
+        {
+          "id": 1308803,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vn.jpg"
+        },
+        {
+          "id": 1308804,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs1vo.jpg"
+        }
+      ],
+      "slug": "f1-24",
+      "summary": "Get ready to ignite your passion for racing and get closer to the grid like never before with EA SPORTS F1 24, the official videogame of the 2024 FIA Formula One World Championship",
+      "total_rating": 76.66666666666667,
+      "videos": [
+        {
+          "id": 108041,
+          "video_id": "4rCs87muGjc"
+        },
+        {
+          "id": 111708,
+          "video_id": "NnyCWsA6KSI"
+        },
+        {
+          "id": 112016,
+          "video_id": "BWyNOpuzid8"
+        },
+        {
+          "id": 112254,
+          "video_id": "vxQIKjRJm40"
+        },
+        {
+          "id": 112450,
+          "video_id": "YKbpm3LQppU"
+        }
+      ]
+    },
+    {
+      "id": 308698,
+      "categories": [
+        8
+      ],
+      "cover": {
+        "id": 401316,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8lno.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/ea-sports-fc-25/minitrailer.webm"
+      },
+      "name": "EA Sports FC 25",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 130,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1355610,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zu.jpg"
+        },
+        {
+          "id": 1355611,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zv.jpg"
+        },
+        {
+          "id": 1355612,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zw.jpg"
+        },
+        {
+          "id": 1355613,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zx.jpg"
+        },
+        {
+          "id": 1355614,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zy.jpg"
+        },
+        {
+          "id": 1355615,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct1zz.jpg"
+        },
+        {
+          "id": 1355616,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct200.jpg"
+        },
+        {
+          "id": 1355617,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct201.jpg"
+        },
+        {
+          "id": 1355618,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct202.jpg"
+        }
+      ],
+      "slug": "ea-sports-fc-25",
+      "summary": "EA SPORTS FC 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+      "total_rating": 64.49384326766182,
+      "videos": [
+        {
+          "id": 119768,
+          "video_id": "pBM2xyco_Kg"
+        },
+        {
+          "id": 127189,
+          "video_id": "QrID0EA3hhI"
+        },
+        {
+          "id": 127190,
+          "video_id": "RefXbk1_taI"
+        }
+      ]
+    },
+    {
+      "id": 308034,
+      "categories": [
+        8
+      ],
+      "cover": {
+        "id": 411336,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8te0.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/nba-2k25/minitrailer.webm"
+      },
+      "name": "NBA 2K25",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 130,
+          "name": "Nintendo Switch"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1352408,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsziw.jpg"
+        },
+        {
+          "id": 1352409,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszix.jpg"
+        },
+        {
+          "id": 1352410,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsziy.jpg"
+        },
+        {
+          "id": 1352411,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsziz.jpg"
+        },
+        {
+          "id": 1352412,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszj0.jpg"
+        }
+      ],
+      "slug": "nba-2k25",
+      "summary": "Stack wins, raise banners, and make history in NBA 2K25. Command every court with authenticity and realism Powered by ProPLAY, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W.",
+      "total_rating": 82.3,
+      "videos": [
+        {
+          "id": 121469,
+          "video_id": "2LwIB_ty_P8"
+        }
+      ]
+    },
+    {
+      "id": 282959,
+      "categories": [
+        8
+      ],
+      "cover": {
+        "id": 379004,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co84fw.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/topspin-2k25/minitrailer.webm"
+      },
+      "name": "TopSpin 2K25",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1249780,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqsc4.jpg"
+        },
+        {
+          "id": 1264894,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr3zy.jpg"
+        },
+        {
+          "id": 1264895,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr3zz.jpg"
+        },
+        {
+          "id": 1264896,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr400.jpg"
+        },
+        {
+          "id": 1264897,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr401.jpg"
+        },
+        {
+          "id": 1264898,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr402.jpg"
+        },
+        {
+          "id": 1264899,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr403.jpg"
+        },
+        {
+          "id": 1264900,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr404.jpg"
+        },
+        {
+          "id": 1264901,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr405.jpg"
+        },
+        {
+          "id": 1264902,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr406.jpg"
+        },
+        {
+          "id": 1264903,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr407.jpg"
+        },
+        {
+          "id": 1284410,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrj22.jpg"
+        },
+        {
+          "id": 1284411,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrj23.jpg"
+        },
+        {
+          "id": 1284412,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrj24.jpg"
+        },
+        {
+          "id": 1284413,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrj25.jpg"
+        }
+      ],
+      "slug": "topspin-2k25",
+      "summary": "The worlds of tennis and 2K have collided. TopSpin 2K25 is the next must-play sports game from 2K that fully immerses fans in the world of tennis. For more information on TopSpin 2K25, including release date, game features and more, stay tuned.",
+      "total_rating": 74.5,
+      "videos": [
+        {
+          "id": 105201,
+          "video_id": "8RGxSiweoJA"
+        },
+        {
+          "id": 109043,
+          "video_id": "qyYeJEv-uog"
+        },
+        {
+          "id": 110088,
+          "video_id": "mE9PAKaIBxQ"
+        },
+        {
+          "id": 111393,
+          "video_id": "9qGfNczHWPQ"
+        },
+        {
+          "id": 111742,
+          "video_id": "e4DNeNwfr4w"
+        }
+      ]
+    },
+    {
+      "id": 283600,
+      "categories": [
+        8
+      ],
+      "cover": {
+        "id": 357454,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7nta.jpg"
+      },
+      "minitrailer": {
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/wwe-2k24/minitrailer.webm"
+      },
+      "name": "WWE 2K24",
+      "platforms": [
+        {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        },
+        {
+          "id": 48,
+          "name": "PlayStation 4"
+        },
+        {
+          "id": 49,
+          "name": "Xbox One"
+        },
+        {
+          "id": 167,
+          "name": "PlayStation 5"
+        },
+        {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 1221979,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq6vv.jpg"
+        },
+        {
+          "id": 1221980,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq6vw.jpg"
+        },
+        {
+          "id": 1233878,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2e.jpg"
+        },
+        {
+          "id": 1233879,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2f.jpg"
+        },
+        {
+          "id": 1233880,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2g.jpg"
+        },
+        {
+          "id": 1233881,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2h.jpg"
+        },
+        {
+          "id": 1233882,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2i.jpg"
+        },
+        {
+          "id": 1233883,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2j.jpg"
+        },
+        {
+          "id": 1233884,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2k.jpg"
+        },
+        {
+          "id": 1233885,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2l.jpg"
+        },
+        {
+          "id": 1233886,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqg2m.jpg"
+        },
+        {
+          "id": 1246176,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpk0.jpg"
+        },
+        {
+          "id": 1246177,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpk1.jpg"
+        },
+        {
+          "id": 1246178,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpk2.jpg"
+        },
+        {
+          "id": 1246179,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpk3.jpg"
+        },
+        {
+          "id": 1246180,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqpk4.jpg"
+        },
+        {
+          "id": 1256933,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqxut.jpg"
+        }
+      ],
+      "slug": "wwe-2k24",
+      "summary": "Experience WWE 2K24’s bevy of spectacular modes, which includes a tribute to WrestleMania in 2K Showcase of the Immortals, MyRISE, MyFACTION, MyGM, and all-new match types like Guest Referee and Gauntlet.",
+      "total_rating": 79.48722412085982,
+      "videos": [
+        {
+          "id": 105560,
+          "video_id": "qYD7qLTYh6g"
+        },
+        {
+          "id": 106653,
+          "video_id": "pIK0-cBlilM"
+        },
+        {
+          "id": 108207,
+          "video_id": "BEvXZ7YJofo"
+        },
+        {
+          "id": 113128,
+          "video_id": "W8SiQKottLo"
+        }
+      ]
     }
   ]
 }
