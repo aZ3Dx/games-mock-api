@@ -1,4 +1,10 @@
 {
+  "server": [
+    {
+      "id": 1,
+      "title": "Server is running"
+    }
+  ],
   "categories": [
     {
       "id": 1,
