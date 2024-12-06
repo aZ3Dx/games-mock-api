@@ -804,7 +804,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5l7s.jpg"
       },
       "minitrailer": {
-        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/silent-hill-2/minitrailer.webm"
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/silent-hill-2--1/minitrailer.webm"
       },
       "name": "Silent Hill 2",
       "platforms": [
@@ -1924,7 +1924,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vab.jpg"
       },
       "minitrailer": {
-        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/warhammer-40,000-space-marine-ii/minitrailer.webm"
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/warhammer-40000-space-marine-ii/minitrailer.webm"
       },
       "name": "Warhammer 40,000: Space Marine II",
       "platforms": [
@@ -2364,7 +2364,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7yle.jpg"
       },
       "minitrailer": {
-        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/multi-versus/minitrailer.webm"
+        "url": "//gamesmediabucket.s3.us-east-1.amazonaws.com/multiversus/minitrailer.webm"
       },
       "name": "MultiVersus",
       "platforms": [
